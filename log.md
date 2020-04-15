@@ -1,7 +1,7 @@
 # log-sistemas
 **Rockford Juego de Rol, 2020 ― próximamente.**
 
-Dentro de este documento serán mencionados y específicados todos los sistemas que yacen en el servidor. Para visualizar las imágenes y/o por alguna consulta rediríjase a nuestro [discord oficial](discord.gg/sQfqWfX).
+Dentro de este documento serán mencionados y específicados todos los sistemas que yacen en el servidor. Para visualizar las imágenes y/o por alguna consulta rediríjase a nuestro [discord oficial](https://discord.gg/sQfqWfX).
 
 ## [Repositorio]
 
