@@ -3,5 +3,5 @@
 
 Dentro de este documento serán mencionados y específicados todos los sistemas en el servidor, log oficial.
 
-'**[SISTEMAS]**'
+**[SISTEMAS]**
 a
