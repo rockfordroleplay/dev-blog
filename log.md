@@ -24,3 +24,58 @@ Las miras ópticas se venden en las tiendas de armas y en el mercado negro. El s
 Otorga la posibilidad de editar la posición del arma dentro del maletero o en la cabina, además de otros objetos visuales para el vehículo, al retirar un arma retomará la posición configurada del arma en el cuerpo del personaje.
 
 - **/maletero - /observar - /ajustar - /tomararma**
+
+## [1.0.4] - Sistema de registro vehícular
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.0.5] - Sistema de mercado negro
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.0.6] - Sistema de objetos para vehículos
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.0.7] - Sistema de creación de trabajos IG
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.0.8] - Sistema de creación de garajes IG
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.0.9] - Sistema de creación de vehículos para facciones y renta IG
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.1.0] - Sistema de creación de facciones IG
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.1.1] - Sistema de creación de puertas IG
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.1.2] - Sistema de creación de apartamentos IG
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.1.3] - Sistema de armas editables
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.1.4] - Sistema de heridas
+Próximamente en visualización.
+
+- **/insertarcomando**
