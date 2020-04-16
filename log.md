@@ -164,5 +164,3 @@ Próximamente en visualización.
 Próximamente en visualización.
 
 - **/insertarcomando**
-
-h
