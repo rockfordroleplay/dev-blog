@@ -79,3 +79,88 @@ Próximamente en visualización.
 Próximamente en visualización.
 
 - **/insertarcomando**
+
+## [1.1.5] - Sistema de torres de señal
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.1.6] - Sistema dinámico de casas
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.1.7] - Sistema dinámico de negocios
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.1.8] - Sistema de TP administrativa
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.1.9] - Sistema de fijación de armas
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.0] - Sistema de daño real
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.1] - Sistema de restaurantes
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.2] - Sistema de centro comercial, peluquería y tiendas de ropa
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.3] - Sistema de carga y descarga de armas y interacción con objetos desde el baúl del auto
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.4] - Sistema de prendas para facciones públicas
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.5] - Sistema de alquiler de autos
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.6] - Sistema de compra de autos (con/sin matrícula)
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.7] - Sistema para mecánicos
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.8] - Sistema para taxistas
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.2.9] - SIstema de prisión
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.3.0] - Sistema para pescadores
+Próximamente en visualización.
+
+- **/insertarcomando**
+
+## [1.3.1] - Sistema para camioneros
+Próximamente en visualización.
+
+- **/insertarcomando**
