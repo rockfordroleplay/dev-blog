@@ -1,166 +1,27 @@
-# log-sistemas
-**Rockford Juego de Rol, 2020 ― próximamente.**
-
-Dentro de este documento serán mencionados y específicados todos los sistemas que yacen en el servidor. Para visualizar las imágenes y/o por alguna consulta rediríjase a nuestro [discord oficial](https://discord.gg/sQfqWfX).
-
-## [Repositorio]
-
-## [1.0.1] - Sistema celular
-*Utilizable de 2 diferentes maneras*
-
-La primera es a través de una interfaz interactiva en TextDraws. El segundo por parte de los comandos /sms, /llamar, etc.
-
-- **/telefono** para abrir el panel interactivo de teléfono. El personaje tendrá un objeto en su mano y el TextDraw se mostrará en la pantalla del jugador. Para desbloquear el teléfono, simplemente se da click en el texto “Toca para desbloquear” que se encuentra debajo de la pantalla. Las notificaciones se mostraran tanto en el chat local como en la pantalla del celular. Incluye la opción de ver el historial de mensajes y llamadas, y se resaltan en sus colores. Entonces, por ejemplo, una llamada perdida se resaltará con el color rojo en la pantalla indicando la fecha y hora exacta de la llamada y lo contrario en verde. Al recibir una llamada, los jugadores que estén cerca podrán escuchar la melodía de llamada, y su texto aparecerá frente a usted.
-
-## [1.0.2] - Sistema de silenciadores para armas de bajo calibre y miras ópticas para rifles
-Cuando se pone un silenciador en 9mm, se reproduce la animación y el arma se convierte en un 9mm silenciado.
-Si pones una mira óptica en el Rifle, se convierte en un Rifle de Francotirador.
-Las miras ópticas se venden en las tiendas de armas y en el mercado negro. El silenciador se vende solo en el mercado negro.
-
-- **/optica** - para quitar/poner la mira óptica en el Rifle.
-- **/silenciador** - para quitar/poner el silenciador en la 9mm.
-
-## [1.0.3] - Sistema de guardado de armas/objetos en vehículos
-Otorga la posibilidad de editar la posición del arma dentro del maletero o en la cabina, además de otros objetos visuales para el vehículo, al retirar un arma retomará la posición configurada del arma en el cuerpo del personaje.
-
-- **/maletero - /observar - /ajustar - /tomararma**
-
-## [1.0.4] - Sistema de registro vehícular
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.0.5] - Sistema de mercado negro
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.0.6] - Sistema de objetos para vehículos
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.0.7] - Sistema de creación de trabajos IG
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.0.8] - Sistema de creación de garajes IG
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.0.9] - Sistema de creación de vehículos para facciones y renta IG
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.0] - Sistema de creación de facciones IG
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.1] - Sistema de creación de puertas IG
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.2] - Sistema de creación de apartamentos IG
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.3] - Sistema de armas editables
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.4] - Sistema de heridas
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.5] - Sistema de torres de señal
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.6] - Sistema dinámico de casas
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.7] - Sistema dinámico de negocios
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.8] - Sistema de TP administrativa
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.1.9] - Sistema de fijación de armas
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.0] - Sistema de daño real
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.1] - Sistema de restaurantes
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.2] - Sistema de centro comercial, peluquería y tiendas de ropa
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.3] - Sistema de carga y descarga de armas y interacción con objetos desde el baúl del auto
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.4] - Sistema de prendas para facciones públicas
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.5] - Sistema de alquiler de autos
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.6] - Sistema de compra de autos (con/sin matrícula)
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.7] - Sistema para mecánicos
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.8] - Sistema para taxistas
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.2.9] - SIstema de prisión
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.3.0] - Sistema para pescadores
-Próximamente en visualización.
-
-- **/insertarcomando**
-
-## [1.3.1] - Sistema para camioneros
-Próximamente en visualización.
-
-- **/insertarcomando**
+<p align="center"><img src="https://i.imgur.com/eISkLWH.png"></p>
+
+***
+A Wiki do Advanced Roleplay tem como principal propósito unir informações técnicas e não-técnicas, que ajudem a comunidade no entendimento de todos os sistemas e na utilização destes em sua totalidade. Nesta wiki você encontrará tutoriais de como utilizar um sistema em específico ou explicações técnicas de como ele funciona, quais limitações etc.
+
+* [Veículos](https://github.com/advancedroleplay/sa-mp/wiki/Ve%C3%ADculos)
+   * [Atributos](https://github.com/advancedroleplay/sa-mp/wiki/Ve%C3%ADculos#atributos)
+   * [Customização](https://github.com/advancedroleplay/sa-mp/wiki/Ve%C3%ADculos#customiza%C3%A7%C3%A3o)
+   * [Comandos](https://github.com/advancedroleplay/sa-mp/wiki/Ve%C3%ADculos#comandos)
+   * [Limites](https://github.com/advancedroleplay/sa-mp/wiki/Ve%C3%ADculos#limites)
+   * [Outros](https://github.com/advancedroleplay/sa-mp/wiki/Ve%C3%ADculos#outros)
+* [Comunicação](https://github.com/advancedroleplay/sa-mp/wiki/Comunica%C3%A7%C3%A3o#comunica%C3%A7%C3%A3o-1)
+   * [Canais de rádio](https://github.com/advancedroleplay/sa-mp/wiki/Comunica%C3%A7%C3%A3o#canais-de-r%C3%A1dio)
+   * [Meios de comunicação presencial](https://github.com/advancedroleplay/sa-mp/wiki/Comunica%C3%A7%C3%A3o#meios-de-comunica%C3%A7%C3%A3o-presencial)
+   * [Meios de comunicação não presencial](https://github.com/advancedroleplay/sa-mp/wiki/Comunica%C3%A7%C3%A3o#meios-de-comunica%C3%A7%C3%A3o-n%C3%A3o-presencial)
+   * [Comunicação In-Character via fórum](https://github.com/advancedroleplay/sa-mp/wiki/Comunica%C3%A7%C3%A3o#comunica%C3%A7%C3%A3o-in-character-via-f%C3%B3rum)
+* [Mobile Data Computer](https://github.com/advancedroleplay/sa-mp/wiki/Mobile-Data-Computer)
+   * [O Computador de Bordo](https://github.com/advancedroleplay/sa-mp/wiki/Mobile-Data-Computer#o-computador-de-bordo)
+   * [Funções](https://github.com/advancedroleplay/sa-mp/wiki/Mobile-Data-Computer#fun%C3%A7%C3%B5es)
+* [San Andreas Correctional Facility](https://github.com/advancedroleplay/sa-mp/wiki/San-Andreas-Correctional-Facility)
+   * [Introdução](https://github.com/advancedroleplay/sa-mp/wiki/San-Andreas-Correctional-Facility#introdu%C3%A7%C3%A3o)
+   * [Interação](https://github.com/advancedroleplay/sa-mp/wiki/San-Andreas-Correctional-Facility#intera%C3%A7%C3%A3o)
+   * [Pessoal autorizado](https://github.com/advancedroleplay/sa-mp/wiki/San-Andreas-Correctional-Facility#pessoal-autorizado)
+   * [Áreas](https://github.com/advancedroleplay/sa-mp/wiki/San-Andreas-Correctional-Facility#%C3%81reas)
+   * [Atuação como um presidiário](https://github.com/advancedroleplay/sa-mp/wiki/San-Andreas-Correctional-Facility#atua%C3%A7%C3%A3o-como-um-presidi%C3%A1rio)
+   * [Comandos](https://github.com/advancedroleplay/sa-mp/wiki/San-Andreas-Correctional-Facility#comandos)
+* [Guias e Tutoriais](https://github.com/advancedroleplay/sa-mp/wiki/Guias-e-Tutoriais)
